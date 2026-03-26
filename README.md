@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 CyberScan Pro is a **full-stack cybersecurity platform** that performs real-time **network scanning, threat intelligence enrichment, and risk analysis**.
 
