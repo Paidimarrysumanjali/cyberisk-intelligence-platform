@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+slowapi
+streamlit
+plotly
+pandas
+requests
+fpdf2
+python-dotenv
